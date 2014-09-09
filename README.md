@@ -5,7 +5,7 @@ sequence-alignment
 
 * KiHong Kim
 * Nohad A. Toulan School of Urban Studies and Planning @ Portland State University
-* accpected for publication in TRR (forthcoming)
+* accpected for publication in Transportation Research Record, 2014 (forthcoming)
  
 ABSTRACT
 
